@@ -43,4 +43,5 @@ jehova [^1]
 
 | Sumana | Samson |
 | --- | ----- |
-| Sumanth| Love   |
+| Sumanth| Love |
+|Love|Hate|
