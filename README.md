@@ -26,9 +26,15 @@ if i in a:
 ```
 - [ ] 1
 - [X] 2
+
+
 ==sumana==
+
 caco~3~
+
 a^2^
+
 ~~strike~~
+
 jehova [^1]
 [^1]: love
