@@ -13,7 +13,7 @@
 + 2
 + 3
 * 1
-* 2
+** 2
 `code`
 ---
 [google](https://google.com)
