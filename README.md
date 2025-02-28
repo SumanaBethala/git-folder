@@ -24,3 +24,5 @@ a= "sumana"
 if i in a:
   print(i)
 ```
+- [ ] 1
+- [X] 2
