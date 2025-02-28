@@ -1,6 +1,8 @@
 # h1
 *italic*
+
 **bold**
+
 ***bold italics***
 > blackquote
 1. 1st
@@ -10,8 +12,6 @@
 + 1
 + 2
 + 3
-# 1
-## 2
 * 1
 * 2
 `code`
@@ -21,5 +21,5 @@
 ```
 a= "sumana"
 if i in a:
-print(i)
+  print(i)
 ```
