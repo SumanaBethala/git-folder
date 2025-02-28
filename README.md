@@ -45,3 +45,4 @@ jehova [^1]
 | --- | ----- |
 | Sumanth| Love |
 |Love|Hate|
+|Mom|Dad|
